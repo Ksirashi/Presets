@@ -1,0 +1,4 @@
+Boss 2 and safespot for mines on boss 3
+```
+~Lv2~{"Name":"Smileton","Group":"Dungeons","ZoneLockH":[976],"DCond":1,"ElementsL":[{"Name":"2 boss adds","type":1,"offY":14.0,"radius":15.0,"color":838861055,"refActorDataID":13545,"refActorRequireCast":true,"refActorCastId":[26438,26439],"refActorComparisonType":3,"includeRotation":true,"onlyVisible":true,"Filled":true},{"Name":"2 boss","type":1,"offY":14.0,"radius":15.0,"color":838861055,"refActorDataID":13521,"refActorRequireCast":true,"refActorCastId":[26438,26439],"refActorComparisonType":3,"includeRotation":true,"onlyVisible":true,"Filled":true},{"Name":"Safespot left","refX":-27.555672,"refY":-41.2197,"refZ":-465.0,"radius":0.2,"color":3355508564},{"Name":"Safespot right","refX":-27.66318,"refY":-46.881203,"refZ":-465.0,"radius":0.2,"color":3355508564}]}
+```
