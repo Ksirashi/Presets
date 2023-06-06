@@ -16,3 +16,6 @@ Boss 1
 ```
 
 Boss 2 and 3
+```
+~Lv2~{"Name":"Boss 2 and 3","Group":"Dead Ends","ZoneLockH":[973],"ElementsL":[{"Name":"Boss cleave right","type":3,"refY":25.0,"radius":30.0,"color":1677721855,"refActorNPCNameID":10316,"refActorRequireCast":true,"refActorCastId":[25943],"refActorComparisonType":6,"includeRotation":true,"AdditionalRotation":1.5707964},{"Name":"Boss cleave left","type":3,"refY":25.0,"radius":30.0,"color":1677721855,"refActorNPCNameID":10316,"refActorRequireCast":true,"refActorCastId":[25944],"refActorComparisonType":6,"includeRotation":true,"AdditionalRotation":4.712389},{"Name":"Butterflies","type":3,"refY":20.0,"radius":1.0,"refActorDataID":13512,"refActorRequireCast":true,"refActorCastId":[25942],"refActorComparisonType":3,"includeRotation":true,"onlyVisible":true},{"Name":"Boss 2 beams","type":3,"refY":7.0,"radius":2.0,"refActorNPCNameID":10310,"refActorRequireCast":true,"refActorCastId":[28352],"refActorComparisonType":6,"includeRotation":true}]}
+```
