@@ -9,7 +9,8 @@ Boss 1
 ~Lv2~{"Name":"Boss 1 Cough Up 1 ","Group":"Dead Ends","ZoneLockH":[973],"DCond":5,"ElementsL":[{"Name":"x3","type":1,"radius":6.0,"overlayText":"x3","refActorComparisonType":1}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":4.7,"MatchIntl":{"En":"The caustic Grebuloff readies Cough Up."}}]}
 ```
 ```
-~Lv2~{"Name":"Boss 1 Cough Up 2","Group":"Dead Ends","ZoneLockH":[973],"DCond":5,"ElementsL":[{"Name":"x2","type":1,"radius":6.0,"overlayText":"x2","refActorComparisonType":1}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":2.0,"MatchIntl":{"En":"The caustic Grebuloff readies Cough Up."},"MatchDelay":4.7}]}```
+~Lv2~{"Name":"Boss 1 Cough Up 2","Group":"Dead Ends","ZoneLockH":[973],"DCond":5,"ElementsL":[{"Name":"x2","type":1,"radius":6.0,"overlayText":"x2","refActorComparisonType":1}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":2.0,"MatchIntl":{"En":"The caustic Grebuloff readies Cough Up."},"MatchDelay":4.7}]}
+```
 ```
 ~Lv2~{"Name":"Boss 1 Cough Up 3","Group":"Dead Ends","ZoneLockH":[973],"DCond":5,"ElementsL":[{"Name":"x1","type":1,"radius":6.0,"overlayText":"x1","refActorComparisonType":1}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":2.0,"MatchIntl":{"En":"The caustic Grebuloff readies Cough Up."},"MatchDelay":6.7}]}
 ```
