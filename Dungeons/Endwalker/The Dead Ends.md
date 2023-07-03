@@ -1,4 +1,4 @@
-Boss 1
+**Boss 1**
 ```
 ~Lv2~{"Name":"Dead Ends Boss 1 north safespot","Group":"EW Dungeons","ZoneLockH":[973],"DCond":5,"ElementsL":[{"Name":"Necrotic 1","type":3,"refX":15.3,"refY":10.38,"offX":15.3,"offY":-1.64,"radius":1.5,"color":3355508546,"refActorNPCNameID":10314,"refActorRequireCast":true,"refActorCastId":[25919],"refActorUseCastTime":true,"refActorCastTimeMax":11.0,"refActorUseOvercast":true,"FillStep":12.0,"refActorComparisonType":6,"includeRotation":true,"LimitDistance":true,"DistanceSourceX":275.7701,"DistanceSourceY":-194.28917,"DistanceSourceZ":501.0067,"DistanceMax":1.0},{"Name":"Necrotic 2","type":3,"refX":-15.3,"refY":10.38,"offX":-15.3,"offY":-1.64,"radius":1.5,"color":3355508546,"refActorNPCNameID":10314,"refActorRequireCast":true,"refActorCastId":[25919],"refActorUseCastTime":true,"refActorCastTimeMax":11.0,"refActorUseOvercast":true,"FillStep":12.0,"refActorComparisonType":6,"includeRotation":true,"LimitDistance":true,"DistanceSourceX":256.99652,"DistanceSourceY":-194.0715,"DistanceSourceZ":501.0067,"DistanceMax":1.0}],"UseTriggers":true,"Triggers":[{"Type":2,"MatchIntl":{"En":"A southward wind begins to blow..."}},{"Type":3,"MatchIntl":{"En":"The wind has ceased..."}}]}
 ```
@@ -15,12 +15,13 @@ Boss 1
 ~Lv2~{"Name":"Dead Ends Boss 1 Cough Up 3","Group":"EW Dungeons","ZoneLockH":[973],"DCond":5,"ElementsL":[{"Name":"x1","type":1,"radius":6.0,"overlayText":"x1","refActorComparisonType":1}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":2.0,"MatchIntl":{"En":"The caustic Grebuloff readies Cough Up."},"MatchDelay":6.7}]}
 ```
 
-Boss 2 and 3
+**Boss 2 and 3**
 ```
 ~Lv2~{"Name":"Dead Ends Boss 2 and 3","Group":"EW Dungeons","ZoneLockH":[973],"ElementsL":[{"Name":"Boss cleave right","type":3,"refY":25.0,"radius":30.0,"color":1677721855,"refActorNPCNameID":10316,"refActorRequireCast":true,"refActorCastId":[25943],"refActorComparisonType":6,"includeRotation":true,"AdditionalRotation":1.5707964},{"Name":"Boss cleave left","type":3,"refY":25.0,"radius":30.0,"color":1677721855,"refActorNPCNameID":10316,"refActorRequireCast":true,"refActorCastId":[25944],"refActorComparisonType":6,"includeRotation":true,"AdditionalRotation":4.712389},{"Name":"Butterflies","type":3,"refY":20.0,"radius":1.0,"refActorDataID":13512,"refActorRequireCast":true,"refActorCastId":[25942],"refActorComparisonType":3,"includeRotation":true,"onlyVisible":true},{"Name":"Boss 2 beams","type":3,"refY":7.0,"radius":2.0,"refActorNPCNameID":10310,"refActorRequireCast":true,"refActorCastId":[28352],"refActorComparisonType":6,"includeRotation":true}]}
 ```
 
-Boss 3 Prance
+**Boss 3 Prance**
+
 This one is weird. If you are a melee you better just do it the normal way. Casters can thechnically do it but it's up to debate if it's worth it, though it's shortest possible distance for that mechanic, so maybe for very confident BLMs. You NEED to press sprint to do it this way. 
 There are dots shown on the edge of each AoE and when the boss jumps first 2 times, there will be 3 dots visible and one empty spot. You should stand in that empty spot and sprint diagonally to where the first two jumps were. (I'll add screenshots later because it's a complicated explanation for an unnecessarily complicated solution for an easy mechanic)
 ```
