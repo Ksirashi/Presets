@@ -1,3 +1,6 @@
+**Boss 1** is a nightmare to track. It has only one noticable mechanic, where he throws morningstar at random player's position and then does a point blank knockback aoe. Does he do it at his own hitbox? No. Does he do it on morningstar's hitbox? Also no! He dashes to where he threw morningstar and does aoe halfway to it. I don't know how the hell to track something like this.
+
+
 **Boss 2**
 ```
 ~Lv2~{"Name":"Malikah's Well boss 2","Group":"SHB Dungeons","ZoneLockH":[836],"ElementsL":[{"Name":"Cone","type":4,"radius":20.0,"coneAngleMin":-30,"coneAngleMax":30,"refActorNPCNameID":8250,"refActorRequireCast":true,"refActorCastId":[15599,15600],"refActorCastTimeMax":6.7,"refActorComparisonType":6,"includeRotation":true,"Filled":true},{"Name":"Text","type":1,"offY":4.0,"radius":0.0,"overlayFScale":1.25,"thicc":0.0,"overlayText":"Don't stand here","refActorNPCNameID":8250,"refActorRequireCast":true,"refActorCastId":[15599,15600],"refActorUseCastTime":true,"refActorCastTimeMax":6.6,"refActorComparisonType":6,"includeRotation":true}]}
