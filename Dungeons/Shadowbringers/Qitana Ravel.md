@@ -9,6 +9,7 @@
 ```
 
 1st Boss
+
 I couldn't find a way to detect the pillars, but there are at least heat cleaves shown
 ```
 ~Lv2~{"Name":"Qitana Ravel 1st Boss","Group":"SHB Dungeons","ZoneLockH":[823],"ElementsL":[{"Name":"Pre-cast for statues. Desn't do anything","type":1,"Enabled":false,"radius":0.0,"refActorNPCNameID":8231,"refActorRequireCast":true,"refActorCastId":[15499],"refActorComparisonType":6},{"Name":"This is supposed to be statues? Doesn't work...","type":1,"Enabled":false,"radius":3.47,"refActorNameIntl":{"En":"Lozatl"},"refActorRequireCast":true,"refActorCastId":[15500,15725],"refActorUseCastTime":true,"refActorCastTimeMax":15.0,"refActorUseOvercast":true,"Filled":true},{"Name":"Right Cleave","type":3,"refY":20.0,"radius":19.0,"refActorNPCNameID":8231,"refActorRequireCast":true,"refActorCastId":[15503],"refActorUseCastTime":true,"refActorCastTimeMin":0.6,"refActorCastTimeMax":3.7,"refActorComparisonType":6,"includeRotation":true,"AdditionalRotation":1.5707964},{"Name":"Left cleave","type":3,"refY":20.0,"radius":19.0,"refActorNPCNameID":8231,"refActorRequireCast":true,"refActorCastId":[15504],"refActorUseCastTime":true,"refActorCastTimeMin":0.6,"refActorCastTimeMax":3.7,"refActorComparisonType":6,"includeRotation":true,"AdditionalRotation":4.712389}]}
