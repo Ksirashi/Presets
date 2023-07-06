@@ -1,4 +1,4 @@
-**1st Boss** is complicated, the same issue as Lapis Manalis orbs - they are not vfx and not entities. They *seem* to have fixed pattern though, but I need more testing for it. If that's the case, I'll do this boss later. If not, well, F.
+**1st Boss** is complicated, the same issue as Lapis Manalis orbs - they are not vfx and not entities. They *seem* to have fixed pattern though, but I need more testing for it. If that's the case, I'll do this boss later. If not, well, F
 
 **3rd Boss**
 ```
