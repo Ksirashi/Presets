@@ -1,0 +1,7 @@
+**Boss 3** Morbid Advance and Retreat
+```
+~Lv2~{"Name":"the Sirensong Sea Boss 3 Advance","Group":"SB Dungeons 61-69","DCond":5,"ElementsL":[{"Name":"Arrow 1","type":3,"refY":17.8,"offY":2.0,"radius":0.15,"color":3355508706,"FillStep":0.1,"refActorType":1,"includeRotation":true},{"Name":"Arrow 2","type":3,"refX":-12.5,"refY":12.5,"offX":-12.6,"offY":10.0,"radius":0.15,"color":3355508706,"FillStep":0.1,"refActorType":1,"includeRotation":true,"AdditionalRotation":0.7853982},{"Name":"Arrow 3","type":3,"refX":12.5,"refY":12.5,"offX":12.6,"offY":10.0,"radius":0.15,"color":3355508706,"FillStep":0.1,"refActorType":1,"includeRotation":true,"AdditionalRotation":5.497787}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":5.0,"Match":"(6074>8037)"}],"FreezeDisplayDelay":3.0}
+```
+```
+~Lv2~{"Name":"the Sirensong Sea Boss 3 Retreat","Group":"SB Dungeons 61-69","DCond":5,"ElementsL":[{"Name":"Arrow 1","type":3,"refY":-17.8,"offY":-2.0,"radius":0.15,"color":3355508706,"FillStep":0.1,"refActorType":1,"includeRotation":true},{"Name":"Arrow 2","type":3,"refX":-12.5,"refY":12.5,"offX":-12.6,"offY":10.0,"radius":0.15,"color":3355508706,"FillStep":0.1,"refActorType":1,"includeRotation":true,"AdditionalRotation":3.9269907},{"Name":"Arrow 3","type":3,"refX":12.5,"refY":12.5,"offX":12.6,"offY":10.0,"radius":0.15,"color":3355508706,"FillStep":0.1,"refActorType":1,"includeRotation":true,"AdditionalRotation":2.3561945}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":5.0,"Match":"(6074>8038)"}],"FreezeDisplayDelay":3.0}
+```
