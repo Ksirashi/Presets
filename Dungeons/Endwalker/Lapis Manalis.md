@@ -1,4 +1,19 @@
-Boss 1
+**Boss 1**
+<details>
+  <summary>Beasts</summary>
+<img src="https://github.com/Ksirashi/Presets/assets/135477389/38ed201c-9820-43a7-9197-85160c866dad">
+</details>
+
+<details>
+  <summary>Right/Left cleave</summary>
+<img src="https://github.com/Ksirashi/Presets/assets/135477389/224fb4fb-b2f2-4752-8d6e-f45933982d49">
+</details>
+
+<details>
+  <summary>Tethered rock</summary>
+<img src="https://github.com/Ksirashi/Presets/assets/135477389/5937e3b6-e988-45a1-aafc-ea7bd8425ced">
+</details>
+
 ```
 ~Lv2~{"Name":"Lapis Manalis 1 boss","Group":"EW Dungeons","ZoneLockH":[1097],"ElementsL":[{"Name":"Boss cleave left","type":3,"refX":-10.0,"refY":20.0,"offX":-10.0,"offY":-20.0,"radius":10.0,"color":1677721855,"originFillColor":1677721855,"endFillColor":1677721855,"thicc":1.0,"refActorNPCNameID":11992,"refActorRequireCast":true,"refActorCastId":[32814],"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true},{"Name":"Boss cleave right","type":3,"refX":10.0,"refY":20.0,"offX":10.0,"offY":-20.0,"radius":10.0,"FillStep":1.0,"color":1677721855,"originFillColor":1677721855,"endFillColor":1677721855,"thicc":0.5,"refActorNPCNameID":11992,"refActorRequireCast":true,"refActorCastId":[32813],"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true},{"Name":"Rock","type":1,"radius":17.0,"color":838861055,"originFillColor":1677721855,"endFillColor":1677721855,"refActorComparisonType":7,"refActorVFXPath":"vfx/lockon/eff/tar_ring1bp.avfx","refActorVFXMax":30000}]}
 ```
