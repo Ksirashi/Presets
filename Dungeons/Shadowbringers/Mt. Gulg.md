@@ -10,10 +10,10 @@
 
 Mini-boss before 3rd Boss
 ```
-~Lv2~{"Name":"Mt. Gulg add before 3rd Boss","Group":"SHB Dungeons","ZoneLockH":[822],"DCond":5,"ElementsL":[{"Name":"Right Palm","type":3,"refX":7.5,"refY":29.0,"offX":7.5,"radius":7.5,"fillIntensity":0.4,"originFillColor":1157628159,"endFillColor":1157628159,"refActorNPCNameID":8270,"refActorComparisonType":6,"includeRotation":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":4.5,"Match":"(8270>16248)","MatchIntl":{"En":"The forgiven revelry readies Right Palm."}}]}
+~Lv2~{"Name":"Mt. Gulg add before 3rd Boss Right","Group":"SHB Dungeons","ZoneLockH":[822],"DCond":5,"ElementsL":[{"Name":"Right Palm","type":3,"refX":7.5,"refY":29.0,"offX":7.5,"radius":7.5,"fillIntensity":0.4,"originFillColor":1157628159,"endFillColor":1157628159,"refActorNPCNameID":8270,"refActorComparisonType":6,"includeRotation":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":4.5,"Match":"(8270>16248)","MatchIntl":{"En":"The forgiven revelry readies Right Palm."}}]}
 ```
 ```
-~Lv2~{"Name":"Mt. Gulg add before 3rd Boss","Group":"SHB Dungeons","ZoneLockH":[822],"DCond":5,"ElementsL":[{"Name":"Left Palm","type":3,"refX":-7.5,"refY":29.0,"offX":-7.5,"radius":7.5,"fillIntensity":0.4,"originFillColor":1157628159,"endFillColor":1157628159,"refActorNPCNameID":8270,"refActorComparisonType":6,"includeRotation":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":4.5,"Match":"(8270>16250)","MatchIntl":{"En":"The forgiven revelry readies Left Palm."}}]}
+~Lv2~{"Name":"Mt. Gulg add before 3rd Boss Left","Group":"SHB Dungeons","ZoneLockH":[822],"DCond":5,"ElementsL":[{"Name":"Left Palm","type":3,"refX":-7.5,"refY":29.0,"offX":-7.5,"radius":7.5,"fillIntensity":0.4,"originFillColor":1157628159,"endFillColor":1157628159,"refActorNPCNameID":8270,"refActorComparisonType":6,"includeRotation":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":4.5,"Match":"(8270>16250)","MatchIntl":{"En":"The forgiven revelry readies Left Palm."}}]}
 ```
 
 3rd Boss
