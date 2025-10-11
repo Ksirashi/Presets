@@ -1,6 +1,7 @@
 WIP
 
 ## chests, exit and candelabre
+These are probably already made 15 times by other people, so feel free to skip those
 ```
 ~Lv2~{"Name":"Map","Group":"Ksi's PT Deep dungeon","ZoneLockH":[1286,1280,1281,1282,1283,1284,1285,1287,1288,1289,1290],"ElementsL":[{"Name":"Exit","type":1,"radius":2.0,"color":3369992447,"fillIntensity":0.062,"refActorName":"Pylon of Passage","tether":true},{"Name":"Gold chest","type":1,"color":3355508725,"Filled":false,"fillIntensity":0.5,"overlayBGColor":4261412864,"overlayTextColor":3355508725,"overlayText":"Gold chest","refActorDataID":2007358,"refActorComparisonType":3,"onlyTargetable":true},{"Name":"Silver chest","type":1,"color":3367417526,"Filled":false,"fillIntensity":0.5,"overlayBGColor":4278190080,"overlayText":"Silver chest","refActorDataID":2007357,"refActorComparisonType":3,"onlyTargetable":true},{"Name":"Capybara","type":1,"color":3371826944,"Filled":false,"fillIntensity":0.5,"overlayBGColor":4278190080,"overlayTextColor":3371826944,"overlayVOffset":2.5,"thicc":3.0,"overlayText":"Capybara","refActorDataID":2014759,"refActorComparisonType":3,"onlyTargetable":true,"tether":true}]}
 ```
