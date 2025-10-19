@@ -30,10 +30,10 @@ Traverse Sand Serpent displays the more accurate telegrapth than Leathen's prese
 ```
 61-70 Talos. This fine gentelmen has very janky mechanic, so preset marks all players for it, though targeter is only 1 of them. But that's the best I could figure out to be safest option
 ```
-~Lv2~{"Name":"PT 61-70 Talos","Group":"Ksi's PT Deep dungeon","ZoneLockH":[1287],"DCond":5,"Freezing":true,"FreezeFor":4.7,"ElementsL":[{"Name":"Traverse Talos","type":1,"radius":6.0,"fillIntensity":0.3,"overlayText":"Leap then AOE","refActorTargetingYou":1,"refActorNPCNameID":14182,"refActorRequireCast":true,"refActorCastId":[42516],"refActorComparisonType":6,"Conditional":true,"Nodraw":true},{"Name":"Traverse Talos on all players cuz it's a stupid mech","type":1,"radius":6.0,"refActorComparisonType":3}]}
+~Lv2~{"Name":"PT 61-70 Talos","Group":"Ksi's PT Deep dungeon","ZoneLockH":[1287],"DCond":5,"Freezing":true,"FreezeFor":4.7,"IntervalBetweenFreezes":4.8,"ElementsL":[{"Name":"Traverse Talos","type":1,"radius":6.0,"fillIntensity":0.3,"overlayText":"Leap then AOE","refActorTargetingYou":1,"refActorNPCNameID":14182,"refActorRequireCast":true,"refActorCastId":[42516],"refActorComparisonType":6,"Conditional":true,"Nodraw":true},{"Name":"Traverse Talos on all players cuz it's a stupid mech","type":1,"radius":6.0,"refActorComparisonType":3}]}
 ```
 ```
-~Lv2~{"Name":"PT 61-70 Talos followup","Group":"Ksi's PT Deep dungeon","ZoneLockH":[1287],"DCond":5,"UseTriggers":true,"Triggers":[{"Type":2,"Duration":4.0,"MatchIntl":{"En":"The traverse Talos uses Accelerate."}}],"ElementsL":[{"Name":"Traverse Talos","type":1,"radius":10.5,"fillIntensity":0.3,"refActorTargetingYou":1,"refActorNPCNameID":14182,"refActorComparisonType":6}]}
+~Lv2~{"Name":"PT 61-70 Talos followup","Group":"Ksi's PT Deep dungeon","ZoneLockH":[1287],"DCond":5,"UseTriggers":true,"Triggers":[{"Type":2,"Duration":3.7,"MatchIntl":{"En":"The traverse Talos uses Accelerate."}}],"ElementsL":[{"Name":"Traverse Talos","type":1,"radius":10.5,"fillIntensity":0.3,"refActorTargetingYou":1,"refActorNPCNameID":14182,"refActorComparisonType":6}]}
 ```
 71-80 Forgiver Slander
 ```
