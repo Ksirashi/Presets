@@ -35,7 +35,10 @@ Traverse Sand Serpent displays the more accurate telegrapth than Leathen's prese
 ```
 ~Lv2~{"Name":"PT 61-70 Talos followup","Group":"Ksi's PT Deep dungeon","ZoneLockH":[1287],"DCond":5,"UseTriggers":true,"Triggers":[{"Type":2,"Duration":4.0,"MatchIntl":{"En":"The traverse Talos uses Accelerate."}}],"ElementsL":[{"Name":"Traverse Talos","type":1,"radius":10.5,"fillIntensity":0.3,"refActorTargetingYou":1,"refActorNPCNameID":14182,"refActorComparisonType":6}]}
 ```
-
+71-80 Forgiver Slander
+```
+~Lv2~{"Name":"PT 71-80 Forgiven Slander","Group":"Ksi's PT Deep dungeon","ZoneLockH":[1288],"DCond":5,"Freezing":true,"FreezeFor":4.7,"IntervalBetweenFreezes":5.0,"ElementsL":[{"Name":"Forgiven Slander - Orogenic Storm","type":1,"radius":8.0,"fillIntensity":0.3,"overlayText":"Leap then AOE","refActorTargetingYou":1,"refActorNPCNameID":14199,"refActorRequireCast":true,"refActorCastId":[44762],"TargetAlteration":2,"refActorComparisonType":6,"Conditional":true,"Nodraw":true},{"Name":"Forgiven Slander on all players cuz it's a stupid mech","type":1,"radius":8.0,"refActorComparisonType":3}]}
+```
 81-90 floors (not finished)
 ```
 ~Lv2~{"Name":"PT 81-90","Group":"Ksi's PT Deep dungeon","ZoneLockH":[1289],"ElementsL":[{"Name":"Invoked Satana - Blizzard Trap","type":1,"radius":8.0,"refActorNPCNameID":14212,"refActorRequireCast":true,"refActorCastId":[44779],"refActorComparisonType":6},{"Name":"Invoked Succubus - Passions' Heat","type":1,"overlayTextColor":3355443455,"overlayFScale":2.0,"overlayText":"!!! LoS or STOP EVERYTHING !!!","refActorTargetingYou":2,"refActorNPCNameID":14207,"refActorRequireCast":true,"refActorCastId":[43322],"refActorUseCastTime":true,"refActorCastTimeMax":8.0,"refActorComparisonType":6,"onlyTargetable":true},{"Name":"","type":4,"radius":8.0,"coneAngleMin":-45,"coneAngleMax":45,"overlayText":"Cleave after 3 hits","refActorNPCNameID":14208,"refActorRequireCast":true,"refActorCastId":[43323,43325,43323,43325],"refActorUseCastTime":true,"refActorCastTimeMin":4.7,"refActorCastTimeMax":12.0,"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true},{"Name":"Invoked Cerberus - Lighning Bolt","type":1,"offY":6.5,"radius":8.0,"refActorNPCNameID":14215,"refActorRequireCast":true,"refActorCastId":[44784],"refActorComparisonType":6,"includeRotation":true}]}
